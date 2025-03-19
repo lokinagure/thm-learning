@@ -3,4 +3,4 @@
 
 Check out my TryHackMe badge below:
 
-[![Your Image Badge](https://tryhackme-badges.s3.amazonaws.com/lokinagure.png)](https://tryhackme.com/p/lokinagure)
+<a href="https://tryhackme.com/p/lokinagure" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/lokinagure.png" alt="Your Image Badge" /></a>
